@@ -1,6 +1,12 @@
 Contributing
 ============
 
+Topic for Discussion
+--------------------
+
+File an issue, with some good outlines, and expected year-for-discussion.
+Issue templates will be nice, hmm.
+
 Conference-Related Data
 -----------------------
 
