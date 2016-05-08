@@ -3,4 +3,8 @@ AOSCC
 
 AOSC Conference!
 
-The next AOSCC is in 2016, Shanghai.
+This is a master collection of AOSCC coordination and informational materials.
+
+- Stickers
+- Schedules
+- Planning (Issues)
