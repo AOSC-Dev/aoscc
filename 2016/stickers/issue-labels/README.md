@@ -9,7 +9,7 @@ Notes to contributors
 ---------------------
 
 - Create in Inkscape (please).
-- Document size of 150-by-80 milimetres.
+- ~~Document size of 150-by-80 milimetres.~~
 - Please do center your work on the document.
 - Template can be found in the `templates/` folder.
 - When saving:

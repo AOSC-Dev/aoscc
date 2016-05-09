@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -7,91 +9,84 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   aria-hidden="true"
-   class="octicon octicon-tag"
-   height="210mm"
+   width="200mm"
+   height="80mm"
+   viewBox="0 0 708.66141 283.46457"
+   id="svg2"
    version="1.1"
-   viewBox="0 0 2303.1495 744.09448"
-   width="650mm"
-   id="svg4204"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="discussion-needed.svg">
+   sodipodi:docname="discussion-needed.svg"
+   inkscape:export-filename="/home/kay/Documents/aoscc/2016/stickers/issue-labels/png/discussion-needed.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="68.476738"
+     inkscape:cy="210.87621"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
   <metadata
-     id="metadata4212">
+     id="metadata7">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <defs
-     id="defs4210" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     id="namedview4208"
-     showgrid="false"
-     units="mm"
-     inkscape:zoom="0.32593203"
-     inkscape:cx="1036.3147"
-     inkscape:cy="250.59591"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4204" />
-  <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eb6420;fill-opacity:1;fill-rule:nonzero;stroke:#eb6420;stroke-width:73.72714996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     id="rect4754"
-     width="2076.2729"
-     height="176.27284"
-     x="83.870216"
-     y="80.958069" />
-  <path
-     style="opacity:1;fill:#ffffff;fill-opacity:0.94117647;stroke:none"
-     inkscape:connector-curvature="0"
-     id="path4756"
-     d="m 154.62786,116.10339 c -4.3111,-4.30782 -10.18153,-6.69086 -16.23542,-6.69086 l -22.5645,0 c -12.5664,0 -22.931388,10.35708 -22.931388,22.91389 l 0,22.63891 c 0,6.04927 2.476589,11.91523 6.69597,16.22303 l 55.585708,55.54325 c 3.57729,3.57456 9.356,3.57456 12.93331,0 l 42.10204,-42.06989 c 3.5773,-3.57457 3.5773,-9.34886 0,-12.92342 l -55.58572,-55.63491 z m -49.07317,49.12736 c -2.8435,-2.74966 -4.31111,-6.41588 -4.31111,-10.35707 l 0,-22.54726 c 0,-8.06569 6.60424,-14.57324 14.58436,-14.57324 l 22.65623,0 c 3.85247,0 7.61322,1.46649 10.36499,4.30782 l 56.31951,56.18484 -43.3862,43.35306 -56.22778,-56.36815 z m 5.77871,-37.48711 18.34511,0 0,18.3311 -18.43684,0 0,-18.3311 z" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:232.13569641px;line-height:125%;font-family:'Noto Sans Armenian';-inkscape-font-specification:'Noto Sans Armenian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="235.27222"
-     y="245.32745"
-     id="text4758"
-     sodipodi:linespacing="125%"
-     transform="scale(0.99345749,1.0065856)"><tspan
-       sodipodi:role="line"
-       id="tspan4139"
-       x="235.27222"
-       y="245.32745">discussion-needed</tspan></text>
-  <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eb6420;fill-opacity:1;fill-rule:nonzero;stroke:#eb6420;stroke-width:72.48506927;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     id="rect4754-9"
-     width="1992.8617"
-     height="177.51492"
-     x="82.231613"
-     y="414.14459" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:232.13569641px;line-height:125%;font-family:'Noto Sans Armenian';-inkscape-font-specification:'Noto Sans Armenian, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="113.45595"
-     y="575.57318"
-     id="text4779"
-     sodipodi:linespacing="125%"
-     transform="scale(0.99345759,1.0065855)"><tspan
-       sodipodi:role="line"
-       id="tspan4141"
-       x="113.45595"
-       y="575.57318">discussion-needed</tspan></text>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-768.8976)">
+    <rect
+       style="fill:#cf581c;fill-opacity:1"
+       id="rect4254-8"
+       width="670.42902"
+       height="109.39434"
+       x="19.116201"
+       y="857.66498"
+       ry="11" />
+    <rect
+       style="fill:#eb6420;fill-opacity:1"
+       id="rect4254"
+       width="670"
+       height="109.39434"
+       x="19.116201"
+       y="853.07562"
+       ry="11" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 67.863758,888.83108 c -1.5493,-1.5481 -3.65899,-2.40451 -5.83461,-2.40451 l -8.10912,0 c -4.51605,0 -8.24096,3.72208 -8.24096,8.23468 l 0,8.13585 c 0,2.17395 0.89002,4.28204 2.40636,5.83016 l 19.97611,19.96085 c 1.2856,1.28461 3.36232,1.28461 4.64791,0 l 15.13043,-15.11886 c 1.28559,-1.28462 1.28559,-3.35976 0,-4.64436 l -19.97612,-19.99381 z m -17.63568,17.65516 c -1.02188,-0.98816 -1.5493,-2.30572 -1.5493,-3.72207 l 0,-8.10292 c 0,-2.89862 2.3734,-5.23726 5.24125,-5.23726 l 8.14208,0 c 1.38449,0 2.73601,0.52703 3.72493,1.54812 l 20.23981,20.19142 -15.59191,15.58001 -20.20686,-20.2573 z m 2.07672,-13.47193 6.59278,0 0,6.58774 -6.62574,0 0,-6.58774 z"
+       id="path4218"
+       style="fill:#ffffff;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="107.9241"
+       y="928.21582"
+       id="text4250"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="107.9241"
+         y="928.21582">discussion-needed</tspan></text>
+  </g>
 </svg>
