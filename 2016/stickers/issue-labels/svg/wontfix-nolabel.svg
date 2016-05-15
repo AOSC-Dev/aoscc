@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="wontfix-nolabel.svg"
-   inkscape:export-filename="/home/jeffbai/Git Repos/aoscc/2016/stickers/tags/png/pakreq.png"
+   inkscape:export-filename="/home/kay/Documents/aoscc/2016/stickers/issue-labels/png/wontfix-nolabel.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="389.8472"
-     inkscape:cy="81.022435"
+     inkscape:cx="207.00959"
+     inkscape:cy="70.92091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
