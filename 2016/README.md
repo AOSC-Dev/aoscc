@@ -13,12 +13,8 @@ Address
 Date
 ----
 
-A vote is currently underway at both:
-
-- Weibo, http://vote.weibo.com/poll/137278854
-- Community Telegram group
-
-Currently it is confirmed that the conference will be held during the weekend of July 16th, with either the 15th or 18th as the 3rd day of the conference.
+July 16-18, 2016.
+2016 年 7 月 16 - 18 日。
 
 Schedule
 --------
