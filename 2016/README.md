@@ -20,3 +20,12 @@ Schedule
 --------
 
 TBD.
+
+Accomodation
+------------
+
+For participants' convenience, we've been searching for economical hotels around the meeting place.
+
+- [JinJiang Inn (Pinshang) (zh_CN)](http://hotels.ctrip.com/hotel/1838785.html)
+
+For reference only.
