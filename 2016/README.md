@@ -8,8 +8,8 @@ community centric conference with an emphasis to:
 - Guide and train new members with involving in community development;
 - Meet new and old friends (of course) in and around the community;
 
-Address
--------
+Location
+--------
 
 100 Haike Rd, Pudong, Shanghai, China
 
