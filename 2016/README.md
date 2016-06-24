@@ -90,4 +90,5 @@ We are glad to have the following sponsors for the conference. Without them, it 
 
 - [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/)
 - [Yunpian](https://www.yunpian.com)
-- Want to be a sponsor? Contact US!
+
+Want to be a sponsor? Contact us!
