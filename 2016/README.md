@@ -76,3 +76,12 @@ For participants' convenience, we've been searching for economical hotels around
 - [JinJiang Inn (Pinshang) (zh_CN)](http://hotels.ctrip.com/hotel/1838785.html)
 
 For reference only.
+
+Sponsors
+------------
+
+We are glad to have the following sponsors for the conference. Without them, it won't go well.
+
+- [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/)
+- [Yunpian](https://www.yunpian.com)
+- Want to be a sponsor? Contact US!
