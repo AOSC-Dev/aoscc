@@ -28,6 +28,7 @@ Zhangjiang Campus.
     - Codename
     - Features
   - Voting for AOSCC 2017: location only
+  - Post-conference: GPG Signing Party (Howard Xiao)
 
 - Day 2:
   - Speeches/Keynotes
