@@ -87,7 +87,7 @@ For reference only.
 Sponsors
 ------------
 
-We are glad to have the following sponsors for the conference. Without them, it won't go well.
+We are glad to have the following sponsors for the conference.
 
 - [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/)
 - [Yunpian](https://www.yunpian.com)
