@@ -91,5 +91,6 @@ We are glad to have the following sponsors for the conference.
 
 - [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/)
 - [Yunpian](https://www.yunpian.com)
+- [CodeWeavers](https://www.codeweavers.com/)
 
 Want to be a sponsor? Contact us!
