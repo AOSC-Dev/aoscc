@@ -106,7 +106,7 @@ real "do", so we will do that here.
   - Next year's AOSCC location.
 
 Following will be Junde Yhi's brief introduction to [T.B.D], and Xiaoxing Ye
-hosting a lucky draw for licenses for CodeWeaver's CrossOver.
+hosting a lucky draw for licenses for CodeWeavers' CrossOver.
 
 ### Day 2: Knowledge worth sharing
 
@@ -138,6 +138,8 @@ available to attendees.
 | ------------ | ---------------------------------------------------------------------------------- |
 | 10:00 A.M.   | Reception at same location, chatters and late-morning greetings                    |
 | 11:00 A.M.   | Start of workshop                                                                  |
+| 12:00 P.M.   | Lunch break                                                                        |
+| 3:00 P.M.    | Announcement of wallpaper and codename winners                                     |
 
 Day 3 workshops are available as the following stations:
 
@@ -146,6 +148,9 @@ Day 3 workshops are available as the following stations:
 and open source software projects.
 - Junde Yhi: T.B.D.
 - Icenowy Zheng: T.B.D.
+
+Winners of wallpaper and codename contests will be awarded with both a Raspberry
+Pi 3 and a copy of CodeWeavers' CrossOver.
 
 Accomodation
 ------------
