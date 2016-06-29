@@ -11,9 +11,9 @@ community centric conference with an emphasis to:
 Location
 --------
 
-100 Haike Rd, Pudong, Shanghai, China
+Room 406, Administration Building, 100 Haike Rd, Pudong, Shanghai, China.
 
-上海浦东区海科路 100 号
+上海浦东区海科路 100 号行政楼 406 室
 
 
 At a glance
