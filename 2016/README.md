@@ -73,7 +73,79 @@ to allow for variabilities in schedules.
 Detailed agenda
 ---------------
 
-T.B.D.
+Here below is a detailed agenda of AOSCC 2016, with time and specific event
+information.
+
+### Day 1: Reflections and discussions
+
+Day 1 will be focused around reports and reflections of the past year and some
+initial planning of the next. An estimated time table is presented below.
+
+| Time         | Event information                                                                  |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 12:00 P.M.   | Reception, Room 406 at the Administration Building                                 |
+| 1:30 P.M.    | Mingcong Bai: annual report                                                        |
+| 2:30 P.M.    | Mingcong Bai, Icenowy Zheng: A.M.A (Ask Me Anything) about future ports of AOSC OS |
+| 3:30 P.M.    | Mingcong Bai: polls and discussions about the coming year                          |
+| 4:00 P.M.    | Junde Yhi: T.B.D.                                                                  |
+| 5:30 P.M.    | Xiaoxing Ye: lucky draws                                                           |
+| 6:00 P.M.    | Tianhao Xiao: post-conference GPG signing party                                    |
+
+During Day 1, reports and reflections will contain reviews of community
+involvement, project achievements, and stuff that are more or less left behind
+(and therefore should be taken care of in short order).
+
+Planning and discussions are two other important component of Day 1, which will
+consist of:
+
+- Discussions: some features or new stuff are worth discussing over before the
+real "do", so we will do that here.
+- Votes/Polls:
+  - Codename of next year's AOSC OS development.
+  - Next year's default wallpaper for AOSC OS.
+  - Next year's AOSCC location.
+
+Following will be Junde Yhi's brief introduction to [T.B.D], and Xiaoxing Ye
+hosting a lucky draw for licenses for CodeWeaver's CrossOver.
+
+### Day 2: Knowledge worth sharing
+
+If fun is your thing, Day 2 will certainly be your day. Day 2 has a strong
+emphasis on sharing and clashing of ideas and knowledge. During the day, people
+from around the community will come in with their prepared speeches, there might
+just be your kind of thing inside!
+
+| Time         | Event information                                                                  |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 10:00 A.M.   | Reception at same location, chatters and late-morning greetings                    |
+| 11:00 A.M.   | gumblex: recreating artwork with Inkscape                                          |
+| 12:00 P.M.   | Lunch break                                                                        |
+| 1:00 P.M.    | Icenowy Zheng: ways of Linux Kernel patch submission                               |
+| 2:00 P.M.    | Geekpie Tech Club of ShanghaiTech University: T.B.D.                               |
+| 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
+| 5:00 P.M.    | Xiaoxing Ye: luck draws                                                            |
+
+Today's luck draw will still be hosted by Xiaoxing Ye with Raspberry Pi 3's
+sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
+
+### Day 3: Hands-on experience
+
+Day 3 will be all about hands-on experience with work around free and open
+source projects, this will be day-long workshop with multiple parallel stations
+available to attendees.
+
+| Time         | Event information                                                                  |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 10:00 A.M.   | Reception at same location, chatters and late-morning greetings                    |
+| 11:00 A.M.   | Start of workshop                                                                  |
+
+Day 3 workshops are available as the following stations:
+
+- Mingcong Bai: hands-on with packaging for AOSC OS.
+- Zixing Liu: introduction and hands-on to contributing localization to free
+and open source software projects.
+- Junde Yhi: T.B.D.
+- Icenowy Zheng: T.B.D.
 
 Accomodation
 ------------
