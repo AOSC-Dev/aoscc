@@ -51,8 +51,8 @@ Zhangjiang Campus.
       - Introduction to L10n
       - Possible hands-on (not likely)
     - Lucky-roll and give-aways
-      - Raspberry Pi 3's to be handed out *
-      - Raspberry Pi 3 gifted to Codename and Wallpaper winners
+      - Raspberry Pi 3 and CrossOver licenses to be handed out *
+      - Raspberry Pi 3 and CrossOver licenses gifted to Codename and Wallpaper winners
 
 **Note:**
 All Raspberry Pi 3 handed out during the conference are sponsored by Yunpian, and
