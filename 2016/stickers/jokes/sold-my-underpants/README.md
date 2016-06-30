@@ -1,4 +1,4 @@
-Sold my underpants to Lennart
+Sold my underpants to Systemd
 =============================
 
 Icenowy Zheng said...
