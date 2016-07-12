@@ -117,13 +117,14 @@ just be your kind of thing inside!
 | Time         | Event information                                                                  |
 | ------------ | ---------------------------------------------------------------------------------- |
 | 10:00 A.M.   | Reception at same location, chatters and late-morning greetings                    |
-| 11:00 A.M.   | gumblex: recreating artwork with Inkscape                                          |
+| 11:00 A.M.   | gumblex: Recreating artwork with Inkscape                                          |
 | 12:00 P.M.   | Lunch break                                                                        |
 | 1:00 P.M.    | Junde Yhi, Zixing Liu: Distributed and CI functionality of ABBS                    |
 | 2:00 P.M.    | Jiahe Shi (GeekPie Association): Setting up development environment on campus      |
-| 3:00 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
-| 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
-| 5:00 P.M.    | Mingcong Bai: lucky draws                                                          |
+| 3:00 P.M.    | Junde Yhi: More on Anthon Starter                                                  |
+| 3:30 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
+| 4:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
+| 5:00 P.M.    | Mingcong Bai: Lucky draws                                                          |
 
 Today's luck draw will still be hosted by Mingcong Bai with Raspberry Pi 3's
 sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
