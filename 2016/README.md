@@ -120,7 +120,7 @@ just be your kind of thing inside!
 | 11:00 A.M.   | gumblex: recreating artwork with Inkscape                                          |
 | 12:00 P.M.   | Lunch break                                                                        |
 | 1:00 P.M.    | Junde Yhi, Zixing Liu: Distributed and CI functionality of ABBS                    |
-| 2:00 P.M.    | Jiahe Shi (Geekpie Tech Club): Setting up development environment on campus        |
+| 2:00 P.M.    | Jiahe Shi (GeekPie Association): Setting up development environment on campus      |
 | 3:00 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
 | 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
 | 5:00 P.M.    | Mingcong Bai: lucky draws                                                          |
