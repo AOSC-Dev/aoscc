@@ -104,8 +104,7 @@ real "do", so we will do that here.
   - Next year's default wallpaper for AOSC OS.
   - Next year's AOSCC location.
 
-Following will be Junde Yhi's brief introduction to [T.B.D], and Junde Yhi will go on to
-host a lucky draw for licenses for CodeWeavers' CrossOver.
+Junde Yhi will then go on to host a lucky draw for licenses for CodeWeavers' CrossOver.
 
 ### Day 2: Knowledge worth sharing
 
