@@ -147,8 +147,8 @@ Day 3 workshops are available as the following stations:
 - Mingcong Bai: hands-on with packaging for AOSC OS.
 - Zixing Liu: introduction and hands-on to contributing localization to free
 and open source software projects.
-- Junde Yhi: T.B.D.
-- Icenowy Zheng: T.B.D.
+- Junde Yhi: AST's Startup Toolkit development meet-up (developers and hobbists welcome).
+- Icenowy Zheng: Ways to Kernel patch submission (short).
 
 Winners of wallpaper and codename contests will be awarded with both a Raspberry
 Pi 3 and a copy of CodeWeavers' CrossOver.
