@@ -104,8 +104,8 @@ real "do", so we will do that here.
   - Next year's default wallpaper for AOSC OS.
   - Next year's AOSCC location.
 
-Following will be Junde Yhi's brief introduction to [T.B.D], and Xiaoxing Ye
-hosting a lucky draw for licenses for CodeWeavers' CrossOver.
+Following will be Junde Yhi's brief introduction to [T.B.D], and Junde Yhi will go on to
+host a lucky draw for licenses for CodeWeavers' CrossOver.
 
 ### Day 2: Knowledge worth sharing
 
@@ -125,7 +125,7 @@ just be your kind of thing inside!
 | 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
 | 5:00 P.M.    | Mingcong Bai: lucky draws                                                          |
 
-Today's luck draw will still be hosted by Xiaoxing Ye with Raspberry Pi 3's
+Today's luck draw will still be hosted by Mingcong Bai with Raspberry Pi 3's
 sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
 
 ### Day 3: Hands-on experience
