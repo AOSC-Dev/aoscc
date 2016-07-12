@@ -123,7 +123,7 @@ just be your kind of thing inside!
 | 2:00 P.M.    | Jiahe Shi (Geekpie Tech Club): Setting up development environment on campus        |
 | 3:00 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
 | 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
-| 5:00 P.M.    | Mingcong Bai: luck draws                                                            |
+| 5:00 P.M.    | Mingcong Bai: lucky draws                                                          |
 
 Today's luck draw will still be hosted by Xiaoxing Ye with Raspberry Pi 3's
 sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
