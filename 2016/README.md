@@ -84,11 +84,10 @@ initial planning of the next. An estimated time table is presented below.
 | Time         | Event information                                                                  |
 | ------------ | ---------------------------------------------------------------------------------- |
 | 12:00 P.M.   | Reception, Room 406 at the Administration Building                                 |
-| 1:30 P.M.    | Mingcong Bai: annual report                                                        |
-| 2:30 P.M.    | Mingcong Bai, Icenowy Zheng: A.M.A (Ask Me Anything) about future ports of AOSC OS |
-| 3:30 P.M.    | Mingcong Bai: polls and discussions about the coming year                          |
-| 4:00 P.M.    | Junde Yhi: T.B.D.                                                                  |
-| 5:30 P.M.    | Xiaoxing Ye: lucky draws                                                           |
+| 1:30 P.M.    | Mingcong Bai: Annual report                                                        |
+| 2:30 P.M.    | Mingcong Bai, Icenowy Zheng: A.M.A (Ask Me Anything) about AOSC OS                 |
+| 3:30 P.M.    | Mingcong Bai: Polls and discussions about the coming year                          |
+| 5:30 P.M.    | Junde Yhi: lucky draws                                                          |
 | 6:00 P.M.    | Tianhao Xiao: post-conference GPG signing party                                    |
 
 During Day 1, reports and reflections will contain reviews of community
@@ -120,10 +119,11 @@ just be your kind of thing inside!
 | 10:00 A.M.   | Reception at same location, chatters and late-morning greetings                    |
 | 11:00 A.M.   | gumblex: recreating artwork with Inkscape                                          |
 | 12:00 P.M.   | Lunch break                                                                        |
-| 1:00 P.M.    | Icenowy Zheng: ways of Linux Kernel patch submission                               |
-| 2:00 P.M.    | Geekpie Tech Club of ShanghaiTech University: T.B.D.                               |
+| 1:00 P.M.    | Junde Yhi, Zixing Liu: Distributed and CI functionality of ABBS                    |
+| 2:00 P.M.    | Jiahe Shi (Geekpie Tech Club): Setting up development environment on campus        |
+| 3:00 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
 | 3:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
-| 5:00 P.M.    | Xiaoxing Ye: luck draws                                                            |
+| 5:00 P.M.    | Mingcong Bai: luck draws                                                            |
 
 Today's luck draw will still be hosted by Xiaoxing Ye with Raspberry Pi 3's
 sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
