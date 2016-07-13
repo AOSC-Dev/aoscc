@@ -51,14 +51,8 @@ Zhangjiang Campus.
       - Introduction to L10n
       - Possible hands-on (not likely)
     - Lucky-roll and give-aways
-      - Raspberry Pi 3 and CrossOver licenses to be handed out *
-      - Raspberry Pi 3 and CrossOver licenses gifted to Codename and Wallpaper winners
-
-**Note:**
-All Raspberry Pi 3 handed out during the conference are sponsored by Yunpian, and
-are provided with AOSC OS pre-installed plus with a package named `yunpian-sdk-python` -
-A Python SDK for Yunpian web services. This package is provided as a sponsored extra,
-and can be removed freely if found unnecessary.
+      - CrossOver licenses and misc. give-aways
+      - CrossOver licenses gifted to Codename and Wallpaper winners
 
 Time
 ----
@@ -121,12 +115,8 @@ just be your kind of thing inside!
 | 1:00 P.M.    | Junde Yhi, Zixing Liu: Distributed and CI functionality of ABBS                    |
 | 2:00 P.M.    | Jiahe Shi (GeekPie Association): Setting up development environment on campus      |
 | 3:00 P.M.    | Junde Yhi: More on Anthon Starter                                                  |
-| 3:30 P.M.    | Sponsored speeches from Yunpian Technologies                                       |
+| 3:30 P.M.    | Icenowy Zheng: Ways to kernel patch submission                                     |
 | 4:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
-| 5:00 P.M.    | Mingcong Bai: Lucky draws                                                          |
-
-Today's luck draw will still be hosted by Mingcong Bai with Raspberry Pi 3's
-sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
 
 ### Day 3: Hands-on experience
 
@@ -147,10 +137,9 @@ Day 3 workshops are available as the following stations:
 - Zixing Liu: introduction and hands-on to contributing localization to free
 and open source software projects.
 - Junde Yhi: AST's Startup Toolkit development meet-up (developers and hobbists welcome).
-- Icenowy Zheng: Ways to Kernel patch submission (short).
+- Icenowy Zheng: Ways to Kernel patch submission and ARM kernel development (short).
 
-Winners of wallpaper and codename contests will be awarded with both a Raspberry
-Pi 3 and a copy of CodeWeavers' CrossOver.
+Winners of wallpaper and codename contests will be awarded with a copy of CodeWeavers' CrossOver.
 
 Accomodation
 ------------
