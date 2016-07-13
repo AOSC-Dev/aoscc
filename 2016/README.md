@@ -52,7 +52,7 @@ Zhangjiang Campus.
       - Possible hands-on (not likely)
     - Lucky-roll and give-aways
       - AOSCC 2016 sticker pack (free to take)
-      - CrossOver licenses and Raspberry Pi 3 (*) give-aways
+      - CrossOver licenses and Raspberry Pi 3 (\*) give-aways
       - CrossOver licenses gifted to Codename and Wallpaper winners
 
 **Note:**
