@@ -51,6 +51,7 @@ Zhangjiang Campus.
       - Introduction to L10n
       - Possible hands-on (not likely)
     - Lucky-roll and give-aways
+      - AOSCC 2016 sticker pack (free to take)
       - CrossOver licenses and misc. give-aways
       - CrossOver licenses gifted to Codename and Wallpaper winners
 
