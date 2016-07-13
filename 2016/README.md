@@ -52,8 +52,14 @@ Zhangjiang Campus.
       - Possible hands-on (not likely)
     - Lucky-roll and give-aways
       - AOSCC 2016 sticker pack (free to take)
-      - CrossOver licenses and misc. give-aways
+      - CrossOver licenses and Raspberry Pi 3 (*) give-aways
       - CrossOver licenses gifted to Codename and Wallpaper winners
+
+**Note:**
+All Raspberry Pi 3 handed out during the conference are sponsored by Yunpian, and
+are provided with AOSC OS pre-installed plus with a package named `yunpian-sdk-python`:
+A Python SDK for Yunpian web services. This package is provided as a sponsored extra,
+and can be removed freely if found unnecessary.
 
 Time
 ----
@@ -118,6 +124,10 @@ just be your kind of thing inside!
 | 3:00 P.M.    | Junde Yhi: More on Anthon Starter                                                  |
 | 3:30 P.M.    | Icenowy Zheng: Ways to kernel patch submission                                     |
 | 4:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
+| 5:00 P.M.    | Mingcong Bai: Lucky draws                                                          |
+
+Today's luck draw will still be hosted by Mingcong Bai with Raspberry Pi 3's
+sponsored by Yunpian (and of course, they come pre-configured with AOSC OS).
 
 ### Day 3: Hands-on experience
 
