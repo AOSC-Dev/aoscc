@@ -86,7 +86,7 @@ initial planning of the next. An estimated time table is presented below.
 | ------------ | ---------------------------------------------------------------------------------- |
 | 12:00 P.M.   | Reception, Room 406 at the Administration Building                                 |
 | 1:30 P.M.    | Mingcong Bai: Annual report                                                        |
-| 2:30 P.M.    | Mingcong Bai, Icenowy Zheng: A.M.A (Ask Me Anything) about AOSC OS                 |
+| 2:30 P.M.    | Mingcong Bai, Xingda Zheng: A.M.A (Ask Me Anything) about AOSC OS                 |
 | 3:30 P.M.    | Mingcong Bai: Polls and discussions about the coming year                          |
 | 5:30 P.M.    | Junde Yhi: lucky draws                                                          |
 | 6:00 P.M.    | Tianhao Xiao: post-conference GPG signing party                                    |
@@ -122,7 +122,7 @@ just be your kind of thing inside!
 | 1:00 P.M.    | Junde Yhi, Zixing Liu: Distributed and CI functionality of ABBS                    |
 | 2:00 P.M.    | Jiahe Shi (GeekPie Association): Setting up development environment on campus      |
 | 3:00 P.M.    | Junde Yhi: More on Anthon Starter                                                  |
-| 3:30 P.M.    | Icenowy Zheng: Ways to kernel patch submission                                     |
+| 3:30 P.M.    | Xingda Zheng: Way to GNU/Linux on ARM                                              |
 | 4:00 P.M.    | Mingcong Bai, Zixing Liu: before you start (tomorrow's workshop), A.M.A. regarding working with packaging, localization (l10n), and everything else! |
 | 5:00 P.M.    | Mingcong Bai: Lucky draws                                                          |
 
@@ -148,7 +148,7 @@ Day 3 workshops are available as the following stations:
 - Zixing Liu: introduction and hands-on to contributing localization to free
 and open source software projects.
 - Junde Yhi: AST's Startup Toolkit development meet-up (developers and hobbists welcome).
-- Icenowy Zheng: Ways to Kernel patch submission and ARM kernel development (short).
+- Xingda Zheng: Ways to Kernel patch submission and ARM kernel development (short).
 
 Winners of wallpaper and codename contests will be awarded with a copy of CodeWeavers' CrossOver.
 
