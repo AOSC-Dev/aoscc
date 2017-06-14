@@ -31,73 +31,109 @@ The gathering will take place in Experiment Building 4, Room 304（实验四号�
 Transit
 -------
 
-It is quite easy to travel to and from H.E.M.C. with the Metro system - Line 2 and 4 both run through the H.E.M.C. South station which is within 300 metres of walking distance from our venue.
+It is quite easy to travel to and from H.E.M.C. with the Metro system - Line 2
+and 4 both run through the H.E.M.C. South station which is within 300 metres of
+walking distance from our venue.
 
-The Line 2 mostly serves as a East-West lane between the H.E.M.C., the southern districts, and the Guangzhou South Railway Station; Line 4 runs North-South from the southern border to the east urban area. That said, there
+The Line 2 mostly serves as a East-West lane between the H.E.M.C., the southern
+districts, and the Guangzhou South Railway Station; Line 4 runs North-South
+from the southern border to the east urban area. That said, there
 are some rules of thumbs for your convenience when travelling around
 Guangzhou...
 
 ### CRH Trains
 
-If travelling on CRH trains (dispatch numbers starting with C/D/G), you will probably arrive at...
+If travelling on CRH trains (dispatch numbers starting with C/D/G), you will
+probably arrive at...
 
-The Guangzhou South Railway Station - take the Line 7 to the H.E.M.C. South station.
+The Guangzhou South Railway Station - take the Line 7 to the H.E.M.C. South
+station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.269125%2C22.988980&from%5Bid%5D=BV10019725-from&from%5Bpoitype%5D=150500&from%5Badcode%5D=440100&from%5Bmodxy%5D=113.269125%2C22.988980&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
-The Guangzhou Railway Station (or as most living in Guangzhou call the "old station") - take the Line 5, and interchange with Line 4 at Chebeinan station, then get off at H.E.M.C. South station.
+The Guangzhou Railway Station (or as most living in Guangzhou call the "old
+station") - take the Line 5, and interchange with Line 4 at Chebeinan station,
+then get off at H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
-The Guangzhou East Railway Station - take the Line 1 (from Linhexi station), and interchange with the Line 5 at Yangji station, then interchange with the Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
+The Guangzhou East Railway Station - take the Line 1 (from Linhexi station),
+and interchange with the Line 5 at Yangji station, then interchange with the
+Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 ### Regular Railway
 
-If travelling on regular railway (dispatch numbers starting with K/T/Z), you will probably arrive at...
+If travelling on regular railway (dispatch numbers starting with K/T/Z), you
+will probably arrive at...
 
-The Guangzhou Railway Station (or as most living in Guangzhou call the "old station") - take the Line 5, and interchange with Line 4 at Chebeinan station, then get off at H.E.M.C. South station.
+The Guangzhou Railway Station (or as most living in Guangzhou call the "old
+station") - take the Line 5, and interchange with Line 4 at Chebeinan station,
+then get off at H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
-The Guangzhou East Railway Station - take the Line 1 (from Linhexi station), and interchange with the Line 5 at Yangji station, then interchange with the Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
+The Guangzhou East Railway Station - take the Line 1 (from Linhexi station),
+and interchange with the Line 5 at Yangji station, then interchange with the
+Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 ### Airway
 
-If travelling on airplanes, you will probably arrive at the Guangzhou Baiyun International Airport - take the Line 3 North Extension, interchange with Line 3 (normal) at Tiyuxilu Station, then interchange with Line 5 at Zhujiang New Town Station, then again, interchange with Line 4 at Chebei South Station, and finally, get off at the H.E.M.C. South station.
+If travelling on airplanes, you will probably arrive at the Guangzhou Baiyun
+International Airport - take the Line 3 North Extension, interchange with Line
+3 (normal) at Tiyuxilu Station, then interchange with Line 5 at Zhujiang New
+Town Station, then again, interchange with Line 4 at Chebei South Station, and
+finally, get off at the H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024349&from%5Bname%5D=%E6%9C%BA%E5%9C%BA%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.303098%2C23.386691&from%5Bmodxy%5D=113.303098%2C23.386691&from%5Bpoitype%5D=150500&from%5Badcode%5D=440114&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 Lodging
 -------
 
-Lodging in Guangzhou could vary quite a bit in quality and price, but here's several economical choices we could recommend to you - eating in Guangzhou is a must, we have ranked those higher in relation to the ease of transit between the venue and the hotels.
+Lodging in Guangzhou could vary quite a bit in quality and price, but here's
+several economical choices we could recommend to you - eating in Guangzhou is a
+must, we have ranked those higher in relation to the ease of transit between
+the venue and the hotels.
 
-Here below we have listed several of our recommendations based on its nearby facilities (transit and restaurant, though most listed below have easy access to restaurants and shopping facilities) offer approximated pricing on each.
+Here below we have listed several of our recommendations based on its nearby
+facilities (transit and restaurant, though most listed below have easy access
+to restaurants and shopping facilities) offer approximated pricing on each.
 
-TL;DR, when recommending these hotels, we prioritised heavily on public transit access (especially Metro), restaurants, affordability, and general safety (hence the heavy bias on chain hotels).
+TL;DR, when recommending these hotels, we prioritised heavily on public transit
+access (especially Metro), restaurants, affordability, and general safety
+(hence the heavy bias on chain hotels).
 
 ### Economic
 
-These are hotel choices with pricing below CNY 300 per night (for two, or more if you wish; prices could be lower than listed below in July), mostly found along Line 2 and Line 4. Most of the ones listed below are within 1 hour of Metro ride from the venue...
+These are hotel choices with pricing below CNY 300 per night (for two, or more
+if you wish; prices could be lower than listed below in July), mostly found
+along Line 2 and Line 4. Most of the ones listed below are within 1 hour of
+Metro ride from the venue...
 
-The two recommended below are near the Chigang or Kecun station on Line 2 (transfer from Line 4... see the links to the maps below for more information), this location in Guangzhou offer relatively low prices on hotels - not to mention the vibrant dining and entertainment choices offered there.
+The two recommended below are near the Chigang or Kecun station on Line 2
+(transfer from Line 4... see the links to the maps below for more information),
+this location in Guangzhou offer relatively low prices on hotels - not to
+mention the vibrant dining and entertainment choices offered there.
 
 | Hotel | Approx. Pricing | Map |
 | ----- | --------------- | --- |
 | 7 Days Inn Near Kecun Station | CNY 150-250 | [Google Maps](https://www.google.com/maps/dir/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E6%B5%B7%E7%8F%A0%E5%8C%BA7%E5%A4%A9%E8%BF%9E%E9%94%81%E9%85%92%E5%BA%97%E5%B9%BF%E5%B7%9E%E5%AE%A2%E6%9D%91%E5%9C%B0%E9%93%81%E7%AB%99%E4%BA%8C%E5%BA%97/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E7%95%AA%E7%A6%BA%E5%8C%BA%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97/@23.0715992,113.325116,13z/am=t/data=!4m14!4m13!1m5!1m1!1s0x3402ff64fca50aff:0x4565fe4c47133a2d!2m2!1d113.3213702!2d23.0995606!1m5!1m1!1s0x3403aadca1aebf87:0x81777d6212316865!2m2!1d113.400431!2d23.04342!3e3?hl=en) |
 | Home Inn Near Chigang Subway Station | CNY 150-230 | [Google Maps](https://www.google.com/maps/dir/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E7%95%AA%E7%A6%BA%E5%8C%BA%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97/Home+Inn+%EF%BC%88Guangzhou+Pazhou+Chigang+Subway+Station+Branch%EF%BC%89,+Haizhu+Qu,+Guangzhou+Shi,+Guangdong+Sheng,+China/@23.0808225,113.3265942,14z/data=!4m14!4m13!1m5!1m1!1s0x3403aadca1aebf87:0x81777d6212316865!2m2!1d113.400431!2d23.04342!1m5!1m1!1s0x3402ff796c5cb053:0xf0f4533f68f4d2f9!2m2!1d113.3300231!2d23.0966575!3e3?hl=en) |
 
-The three below are found near the Tiyuxilu station on Line 3 or Tianhe Sports Centre station on Line 1 (again, see the maps for yourself), this is rougly the downtown area of Guangzhou, though prices could be higher when seeking food, the choices are quite numerous - ranging from Cantonese dimsum to North-Eastern style foods.
+The three below are found near the Tiyuxilu station on Line 3 or Tianhe Sports
+Centre station on Line 1 (again, see the maps for yourself), this is rougly the
+downtown area of Guangzhou, though prices could be higher when seeking food,
+the choices are quite numerous - ranging from Cantonese dimsum to North-Eastern
+style foods.
 
 | Hotel | Approx. Pricing | Map |
 | ----- | --------------- | --- |
@@ -107,22 +143,68 @@ The three below are found near the Tiyuxilu station on Line 3 or Tianhe Sports C
 
 ### Premium
 
-If you do feel a bit charitable or on a vacational spirit, there are great choices around Tianhe Area, along Line 3 between the Tianhe Coach Terminal station and Canton Tower station. As very few would find the need for one, we are not going to list any below.
+If you do feel a bit charitable or on a vacational spirit, there are great
+choices around Tianhe Area, along Line 3 between the Tianhe Coach Terminal
+station and Canton Tower station. As very few would find the need for one, we
+are not going to list any below.
 
 *"They should be quite easy to spot."*  
 — Mingcong Bai
 
 ### Scenic
 
-There are many great scenic locations along the new Haizhu Island Circular New Tram or Haizhu Tram 1. You could interchange with this line with Line 3 or the APM (Automated People Mover System) Line at Canton Tower station on these lines, or with Line 4 or 8 at Wanshengwei station.
+There are many great scenic locations along the new Haizhu Island Circular New
+Tram or Haizhu Tram 1. You could interchange with this line with Line 3 or the
+APM (Automated People Mover System) Line at Canton Tower station on these
+lines, or with Line 4 or 8 at Wanshengwei station.
 
-Do search it up with a map though as prices could vary greatly depending on the location, generally the closer you get to the Canton Tower, the more expensive it gets - as Canton Tower signifies the start (or some would say the "central") to the CBD (Central Business District) area in Guangzhou.
+Do search it up with a map though as prices could vary greatly depending on the
+location, generally the closer you get to the Canton Tower, the more expensive
+it gets - as Canton Tower signifies the start (or some would say the "central")
+to the CBD (Central Business District) area in Guangzhou.
 
 ### Airbnb?
 
-Sure, there are many households who could rent short term in Guangzhou, but do look out for locations near Metro stations - it would make your life infinitely easier.
+Sure, there are many households who could rent short term in Guangzhou, but do
+look out for locations near Metro stations - it would make your life infinitely
+easier.
 
 Schedule
 --------
 
-//TODO
+As usual, AOSCC 2017 will be a three-day event...
+
+- Day 1: Community project and progression reports, planning, polls.
+- Day 2: Project and progression report, and community member talks.
+- Day 3: Community project workshops.
+
+Here below are the most up-to-date daily schedules for AOSCC 2017, the
+schedules below are subject-to-change.
+
+### Day 1
+
+| Speaker | Topic | Estimated Time Frame |
+|---------|-------|----------------------|
+| Mingcong Bai | Year In Review: 2016 - 2017 | 10:00 - 11:30 |
+| Mingcong Bai | Monthly Cycle, and Future Changes | 13:00 - 14:30 |
+| Junde Yhi    | AOSC OS's Overlay System | 14:40 - 15:30 |
+| Mingcong Bai | Let's Name: Core 5 (Poll)     | 15:40 - 16:00 |
+| Mingcong Bai | AOSC OS 2018 Wallpaper (*) | 16:00 - 16:15 |
+| TBD          | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45 |
+| Mingcong Bai | Closing Words and Onto Day 2 | 16:45 - 17:00 |
+
+### Day 2
+
+| Speaker | Topic | Estimated Time Frame |
+|---------|-------|----------------------|
+| Lion Yang | Ciel | 10:00 - 11:30 |
+| TBD | TBD | 13:00 - 16:30 |
+| TBD | Lucky Dip: Set of Blu-Ray AOSC OS Archive, and TBD | 16:30 - 16:45 |
+| Mingcong Bai | Closing Words and Onto Day 3 | 16:45 - 17:00 |
+
+### Day 3
+
+Day 3 will be a day of workshop, therefore no timeline-based schedule would be
+produced, here's a list of topics/activities we have planned:
+
+- AOSC OS Packaging (Mingcong Bai)
