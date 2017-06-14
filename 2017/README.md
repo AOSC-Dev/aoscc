@@ -35,7 +35,7 @@ It is quite easy to travel to and from H.E.M.C. with the Metro system - Line 2
 and 4 both run through the H.E.M.C. South station which is within 300 metres of
 walking distance from our venue.
 
-The Line 2 mostly serves as a East-West lane between the H.E.M.C., the southern
+The Line 7 mostly serves as a East-West lane between the H.E.M.C., the southern
 districts, and the Guangzhou South Railway Station; Line 4 runs North-South
 from the southern border to the east urban area. That said, there
 are some rules of thumbs for your convenience when travelling around
@@ -116,8 +116,8 @@ access (especially Metro), restaurants, affordability, and general safety
 
 These are hotel choices with pricing below CNY 300 per night (for two, or more
 if you wish; prices could be lower than listed below in July), mostly found
-along Line 2 and Line 4. Most of the ones listed below are within 1 hour of
-Metro ride from the venue...
+along Metro lines. Most of the ones listed below are within 1 hour of Metro
+ride from the venue...
 
 The two recommended below are near the Chigang or Kecun station on Line 2
 (transfer from Line 4... see the links to the maps below for more information),
@@ -175,7 +175,7 @@ Schedule
 As usual, AOSCC 2017 will be a three-day event...
 
 - Day 1: Community project and progression reports, planning, polls.
-- Day 2: Project and progression report, and community member talks.
+- Day 2: Project and progression report, and free talks.
 - Day 3: Community project workshops.
 
 Here below are the most up-to-date daily schedules for AOSCC 2017, the
@@ -183,24 +183,26 @@ schedules below are subject-to-change.
 
 ### Day 1
 
-| Speaker | Topic | Estimated Time Frame |
-|---------|-------|----------------------|
-| Mingcong Bai | Year In Review: 2016 - 2017 | 10:00 - 11:30 |
-| Mingcong Bai | Monthly Cycle, and Future Changes | 13:00 - 14:30 |
-| Junde Yhi    | AOSC OS's Overlay System | 14:40 - 15:30 |
-| Mingcong Bai | Let's Name: Core 5 (Poll)     | 15:40 - 16:00 |
-| Mingcong Bai | AOSC OS 2018 Wallpaper (*) | 16:00 - 16:15 |
-| TBD          | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45 |
-| Mingcong Bai | Closing Words and Onto Day 2 | 16:45 - 17:00 |
+| Speaker      | Topic                                     | Estimated Time Frame |
+|--------------|-------------------------------------------|----------------------|
+| Mingcong Bai | Year In Review: 2016 - 2017               | 10:00 - 11:30        |
+| Mingcong Bai | Monthly Cycle, and Future Changes         | 13:00 - 14:30        |
+| Junde Yhi    | AOSC OS's Overlay System                  | 14:40 - 15:30        |
+| Mingcong Bai | Let's Name: Core 5 (Poll)                 | 15:40 - 16:00        |
+| Mingcong Bai | AOSC OS 2018 Wallpaper (*)                | 16:00 - 16:15        |
+| TBD          | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45        |
+| Mingcong Bai | Closing Words and Onto Day 2              | 16:45 - 17:00        |
 
 ### Day 2
 
-| Speaker | Topic | Estimated Time Frame |
-|---------|-------|----------------------|
-| Lion Yang | Ciel | 10:00 - 11:30 |
-| TBD | TBD | 13:00 - 16:30 |
-| TBD | Lucky Dip: Set of Blu-Ray AOSC OS Archive, and TBD | 16:30 - 16:45 |
-| Mingcong Bai | Closing Words and Onto Day 3 | 16:45 - 17:00 |
+| Speaker       | Topic                                     | Estimated Time Frame |
+|---------------|-------------------------------------------|----------------------|
+| Lion Yang     | The Ciel: Automatic Reproducible Packaging System | 10:00 - 11:30        |
+| Zamir Sun     | Contributor to Employee : FOSS Does Help  | 13:00 - 13:45        |
+| Icenowy Zheng | TBD (Mainlining Allwinner?)               | 14:00 - 15:00        |
+| TBD           | Lightning Talks (Fun Stuff)               | 15:00 - 16:15        |
+| TBD           | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45        |
+| Mingcong Bai  | Closing Words and Onto Day 3              | 16:45 - 17:00        |
 
 ### Day 3
 
