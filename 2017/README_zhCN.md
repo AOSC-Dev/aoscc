@@ -30,19 +30,19 @@ AOSCC 2017 的会场由[广东工业大学](http://www.gdut.edu.cn/)电子科技
 
 如果您准备乘坐和谐号列车（班次号由 C/D/G 开头）前往广州，您将到达如下目的地火车站之一：
 
-广州火车南站，可乘坐地铁七号线即可抵达大学城南站（路线如下）。
+广州南站（火车站），可乘坐地铁七号线即可抵达大学城南站（路线如下）。
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.269125%2C22.988980&from%5Bid%5D=BV10019725-from&from%5Bpoitype%5D=150500&from%5Badcode%5D=440100&from%5Bmodxy%5D=113.269125%2C22.988980&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 或……
 
-广州火车站（本地居民一般称作“老火车站”），可乘坐五号线，然后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
+广州站（火车站）（本地居民一般称作“老火车站”），可乘坐五号线，然后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 或……
 
-广州火车东站，从林和西站乘坐一号线，然后在杨箕站转乘五号线，最后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
+广州东站（火车站），从林和西站乘坐一号线，然后在杨箕站转乘五号线，最后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
@@ -50,13 +50,13 @@ AOSCC 2017 的会场由[广东工业大学](http://www.gdut.edu.cn/)电子科技
 
 如果您准备乘坐班次号为 K/T/Z 的火车前往广州，您将到达如下目的地火车站之一：
 
-广州火车站（本地居民一般称作“老火车站”），可乘坐五号线，然后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
+广州站（火车站）（本地居民一般称作“老火车站”），可乘坐五号线，然后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 或……
 
-广州火车东站，从林和西站乘坐一号线，然后在杨箕站转乘五号线，最后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
+广州东站（火车站），从林和西站乘坐一号线，然后在杨箕站转乘五号线，最后在车陂南站转乘四号线即可抵达大学城南站（路线如下）。
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
