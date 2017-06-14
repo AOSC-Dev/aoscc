@@ -1,7 +1,8 @@
 AOSCC 2017
 ==========
 
-Welcome to our 4th annual community gathering, and this time in Guangzhou!
+Welcome to our 4th annual community gathering, and this time in Guangzhou, from
+July 14th to 16th!
 
 AOSCC is your prime opportunity to meet our developers and friends online in
 person. AOSCC is also a great chance for our developers to exhibit our
@@ -17,8 +18,8 @@ Location
 --------
 
 AOSCC 2017's venue is generously sponsored by the
-[Guangdong University of Technology](http://www.gdut.edu.cn/) in their location
-in the H.E.M.C. (Higher Education Mega Center; 大学城).
+[Guangdong University of Technology](http://www.gdut.edu.cn/) on their
+campus location at the H.E.M.C. (Higher Education Mega Center; 大学城).
 
 The gathering will take place in Experiment Building 4, Room 304（实验四号楼 304
 实验室）, here's some maps to the location...
@@ -38,9 +39,23 @@ Guangzhou...
 
 ### CRH Trains
 
-If travelling on CRH trains (dispatch numbers starting with C/D/G), you will probably arrive at the Guangzhou South Railway Station - take the Line 7 to the H.E.M.C. South station.
+If travelling on CRH trains (dispatch numbers starting with C/D/G), you will probably arrive at...
+
+The Guangzhou South Railway Station - take the Line 7 to the H.E.M.C. South station.
 
 - Gaode Maps [→](http://gaode.com/dir?from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.269125%2C22.988980&from%5Bid%5D=BV10019725-from&from%5Bpoitype%5D=150500&from%5Badcode%5D=440100&from%5Bmodxy%5D=113.269125%2C22.988980&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
+
+Or...
+
+The Guangzhou Railway Station (or as most living in Guangzhou call the "old station") - take the Line 5, and interchange with Line 4 at Chebeinan station, then get off at H.E.M.C. South station.
+
+- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
+
+Or...
+
+The Guangzhou East Railway Station - take the Line 1 (from Linhexi station), and interchange with the Line 5 at Yangji station, then interchange with the Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
+
+- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 ### Regular Railway
 
