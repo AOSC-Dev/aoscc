@@ -22,7 +22,7 @@ AOSCC 2017's venue is generously sponsored by the
 campus location at the H.E.M.C. (Higher Education Mega Center; 大学城).
 
 The gathering will take place in Experiment Building 4, Room 304（实验四号楼 304
-实验室）, here's some maps to the location...
+实验室）, here are some maps to the location...
 
 - Google Maps
 [→](https://www.google.com.sg/maps/place/Guangdong+University+of+Technology+Experiment+Building+4,+Panyu+Qu,+Guangzhou+Shi,+Guangdong+Sheng,+China/@23.0400275,113.3957348,16z/data=!4m5!3m4!1s0x3403aad94a278a3f:0xf2ebd2723d97b2f5!8m2!3d23.0378993!4d113.3997973?hl=en)
