@@ -26,7 +26,7 @@ The gathering will take place in Experiment Building 4, Room 304（实验四号�
 
 - Google Maps
 [→](https://www.google.com/maps/place/Guangdong+University+of+Technology+Experiment+Building+4,+Panyu+Qu,+Guangzhou+Shi,+Guangdong+Sheng,+China/@23.0400275,113.3957348,16z/data=!4m5!3m4!1s0x3403aad94a278a3f:0xf2ebd2723d97b2f5!8m2!3d23.0378993!4d113.3997973?hl=en)
-- Gaode Maps [→](https://gaode.com/search?query=%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E7%95%AA%E7%A6%BA%E5%8C%BA%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%9B%9B%E5%8F%B7%E6%A5%BC&city=110000&geoobj=116.302288%7C39.808925%7C116.618145%7C40.006178&zoom=12)
+- AMAP [→](https://gaode.com/search?query=%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E7%95%AA%E7%A6%BA%E5%8C%BA%E5%B9%BF%E4%B8%9C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%9B%9B%E5%8F%B7%E6%A5%BC&city=110000&geoobj=116.302288%7C39.808925%7C116.618145%7C40.006178&zoom=12)
 
 Transit
 -------
@@ -49,7 +49,7 @@ probably arrive at...
 The Guangzhou South Railway Station - take the Line 7 to the H.E.M.C. South
 station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.269125%2C22.988980&from%5Bid%5D=BV10019725-from&from%5Bpoitype%5D=150500&from%5Badcode%5D=440100&from%5Bmodxy%5D=113.269125%2C22.988980&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E5%8D%97%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.269125%2C22.988980&from%5Bid%5D=BV10019725-from&from%5Bpoitype%5D=150500&from%5Badcode%5D=440100&from%5Bmodxy%5D=113.269125%2C22.988980&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
@@ -57,15 +57,15 @@ The Guangzhou Railway Station (or as most living in Guangzhou call the "old
 station") - take the Line 5, and interchange with Line 4 at Chebeinan station,
 then get off at H.E.M.C. South station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
-The Guangzhou East Railway Station - take the Line 1 (from Linhexi station),
+The Guangzhou East Railway Station - take the Line 1 (from Guangzhou East Railway Station),
 and interchange with the Line 5 at Yangji station, then interchange with the
 Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 ### Regular Railway
 
@@ -76,32 +76,32 @@ The Guangzhou Railway Station (or as most living in Guangzhou call the "old
 station") - take the Line 5, and interchange with Line 4 at Chebeinan station,
 then get off at H.E.M.C. South station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10015177&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.256603%2C23.148143&from%5Bmodxy%5D=113.256603%2C23.148143&from%5Bpoitype%5D=150500&from%5Badcode%5D=440104&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=2&dateTime=now)
 
 Or...
 
-The Guangzhou East Railway Station - take the Line 1 (from Linhexi station),
+The Guangzhou East Railway Station - take the Line 1,
 and interchange with the Line 5 at Yangji station, then interchange with the
 Line 4 at Chebeinan station, and finally get off at the H.E.M.C. South station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10024357-from&from%5Bname%5D=%E5%B9%BF%E5%B7%9E%E4%B8%9C%E7%AB%99%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.324851%2C23.150968&from%5Bmodxy%5D=113.324851%2C23.150968&from%5Bpoitype%5D=150500&from%5Badcode%5D=440106&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 ### Airway
 
-If travelling on airplanes, you will probably arrive at the Guangzhou Baiyun
-International Airport - take the Line 3 North Extension, interchange with Line
-3 (normal) at Tiyuxilu Station, then interchange with Line 5 at Zhujiang New
-Town Station, then again, interchange with Line 4 at Chebei South Station, and
+If travelling by plane, you will probably arrive at the Guangzhou Baiyun
+International Airport (ICAO: ZGGG, IATA: CAN) - take the Line 3 North Extension from Airport South Station,
+interchange with Line 3 (normal) at Tiyuxilu Station, then interchange with Line 5
+at Zhujiang New Town Station, then again, interchange with Line 4 at Chebeinan Station, and
 finally, get off at the H.E.M.C. South station.
 
-- Gaode Maps [→](http://gaode.com/dir?from%5Bid%5D=BV10024349&from%5Bname%5D=%E6%9C%BA%E5%9C%BA%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.303098%2C23.386691&from%5Bmodxy%5D=113.303098%2C23.386691&from%5Bpoitype%5D=150500&from%5Badcode%5D=440114&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
+- AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10024349&from%5Bname%5D=%E6%9C%BA%E5%9C%BA%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.303098%2C23.386691&from%5Bmodxy%5D=113.303098%2C23.386691&from%5Bpoitype%5D=150500&from%5Badcode%5D=440114&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
 Lodging
 -------
 
 Lodging in Guangzhou could vary quite a bit in quality and price, but here's
 several economical choices we could recommend to you - eating in Guangzhou is a
-must, we have ranked those higher in relation to the ease of transit between
+must, so we have ranked those higher in relation to the ease of transit between
 the venue and the hotels.
 
 Here below we have listed several of our recommendations based on its nearby
