@@ -99,7 +99,7 @@ finally, get off at the H.E.M.C. South station.
 
 If time allows, it's a good idea to take a shuttle bus from the air port to
 Guangzhou North Railway Station and take a train down to the South Railway
-Station, and finally interchange with Line 4 there to H.E.M.C. South Station.
+Station, and finally interchange with Line 7 there to H.E.M.C. South Station.
 
 Lodging
 -------
