@@ -67,7 +67,7 @@ AOSCC 2017 的会场由[广东工业大学](http://www.gdut.edu.cn/)电子科技
 
 - 高德地图 [→](http://gaode.com/dir?from%5Bid%5D=BV10024349&from%5Bname%5D=%E6%9C%BA%E5%9C%BA%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.303098%2C23.386691&from%5Bmodxy%5D=113.303098%2C23.386691&from%5Bpoitype%5D=150500&from%5Badcode%5D=440114&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
-若缓冲时间允許也可从机场搭大巴至广州北站，再从北站搭高铁至广州南站。
+若缓冲时间允許也可从机场搭大巴至广州北站，再从北站搭高铁至广州南站，随后可乘坐地铁七号线即可抵达大学城南站。
 
 住宿
 ----

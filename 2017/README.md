@@ -96,6 +96,10 @@ finally, get off at the H.E.M.C. South station.
 
 - AMAP [→](http://gaode.com/dir?from%5Bid%5D=BV10024349&from%5Bname%5D=%E6%9C%BA%E5%9C%BA%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&from%5Blnglat%5D=113.303098%2C23.386691&from%5Bmodxy%5D=113.303098%2C23.386691&from%5Bpoitype%5D=150500&from%5Badcode%5D=440114&to%5Bid%5D=BV10024365-to&to%5Bname%5D=%E5%A4%A7%E5%AD%A6%E5%9F%8E%E5%8D%97%28%E5%9C%B0%E9%93%81%E7%AB%99%29&to%5Blnglat%5D=113.400557%2C23.043313&to%5Bmodxy%5D=113.400557%2C23.043313&to%5Bpoitype%5D=150500&to%5Badcode%5D=440113&type=bus&policy=0&dateTime=now)
 
+If time allows, it's a good idea to take a shuttle bus from the air port to
+Guangzhou North Railway Station and take a train down to the South Railway
+Station, and finally interchange with Line 4 there to H.E.M.C. South Station.
+
 Lodging
 -------
 
