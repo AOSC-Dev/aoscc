@@ -18,7 +18,8 @@ Location
 --------
 
 AOSCC 2017's venue is generously sponsored by the
-[Guangdong University of Technology](http://www.gdut.edu.cn/) on their
+Electronic Engineering Club of
+[Guangdong University of Technology](http://www.gdut.edu.cn/) - on their
 campus location at the H.E.M.C. (Higher Education Mega Center; 大学城).
 
 The gathering will take place in Experiment Building 4, Room 304（实验四号楼 304
