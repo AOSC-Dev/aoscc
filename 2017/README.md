@@ -1,6 +1,8 @@
 AOSCC 2017
 ==========
 
+- 中文版指南 [→](https://github.com/AOSC-Dev/aoscc/blob/master/2017/README_zhCN.md)
+
 Welcome to our 4th annual community gathering, and this time in Guangzhou, from
 July 14th to 16th!
 
