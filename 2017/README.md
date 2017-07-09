@@ -1,7 +1,8 @@
 AOSCC 2017
 ==========
 
-- 中文版指南 [→](https://github.com/AOSC-Dev/aoscc/blob/master/2017/README_zhCN.md)
+- 简体中文版指南 [→](https://github.com/AOSC-Dev/aoscc/blob/master/2017/README_zhCN.md)
+- 正體中文版指南 [→](https://github.com/AOSC-Dev/aoscc/blob/master/2017/README_zhTW.md)
 
 Welcome to our 4th annual community gathering, and this time in Guangzhou, from
 July 14th to 16th!
@@ -185,35 +186,46 @@ As usual, AOSCC 2017 will be a three-day event...
 - Day 2: Project and progression report, and free talks.
 - Day 3: Community project workshops.
 
-Here below are the most up-to-date daily schedules for AOSCC 2017, the
-schedules below are subject-to-change.
-
 ### Day 1
 
-| Speaker      | Topic                                     | Estimated Time Frame |
-|--------------|-------------------------------------------|----------------------|
-| Mingcong Bai | Year In Review: 2016 - 2017               | 10:00 - 11:30        |
-| Mingcong Bai | Monthly Cycle, and Future Changes         | 13:00 - 14:30        |
-| Junde Yhi    | AOSC OS's Overlay System                  | 14:40 - 15:30        |
-| Mingcong Bai | Let's Name: Core 5 (Poll)                 | 15:40 - 16:00        |
-| Mingcong Bai | AOSC OS 2018 Wallpaper (*)                | 16:00 - 16:15        |
-| TBD          | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45        |
-| Mingcong Bai | Closing Words and Onto Day 2              | 16:45 - 17:00        |
+| Speaker      | Topic                                      | Estimated Time Frame |
+|--------------|--------------------------------------------|----------------------|
+| Mingcong Bai | Year In Review: 2016 - 2017                | 10:00 - 11:30        |
+| Zamir Sun    | Contributor to Employee : FOSS Does Help   | 13:00 - 13:30        |
+| Mingcong Bai | Monthly Cycle on AOSC OS                   | 13:40 - 14:30        |
+| Junde Yhi    | AOSC OS's Overlay System                   | 14:40 - 15:30        |
+| Mingcong Bai | Let's Name: Core 5 (Poll)                  | 15:40 - 16:00        |
+| Mingcong Bai | AOSC OS 2018 Wallpaper Announcement        | 16:00 - 16:15        |
+| -            | Lucky Dip: Sets of Blu-Ray AOSC OS Archive | 16:15 - 16:30        |
+| Mingcong Bai | Closing Words and Onto Day 2               | 16:40 - 17:00        |
+
+Winner of Core 5 codename poll and our artist for the 2018 wallpaper will be
+awarded a Banana Pi M2+ for their contribution.
 
 ### Day 2
 
-| Speaker       | Topic                                     | Estimated Time Frame |
-|---------------|-------------------------------------------|----------------------|
-| Lion Yang     | The Ciel: Automatic Reproducible Packaging System | 10:00 - 11:30        |
-| Zamir Sun     | Contributor to Employee : FOSS Does Help  | 13:00 - 13:45        |
-| Icenowy Zheng | TBD (Mainlining Allwinner?)               | 14:00 - 15:00        |
-| TBD           | Lightning Talks (Fun Stuff)               | 15:00 - 16:15        |
-| TBD           | Lucky Dip: Set of Blu-Ray AOSC OS Archive | 16:30 - 16:45        |
-| Mingcong Bai  | Closing Words and Onto Day 3              | 16:45 - 17:00        |
+| Speaker       | Topic                                             | Estimated Time Frame |
+|---------------|---------------------------------------------------|----------------------|
+| Zixing Liu    | Future of AOSC Build Systems (ACBS)               | 10:00 - 10:45        |
+| Lion Yang     | The Ciel: Automatic Reproducible Packaging System | 10:55 - 12:00        |
+| Icenowy Zheng | Free Software on ARM Hardware                     | 13:00 - 14:00        |
+| Mingcong Bai  | Future Changes to AOSC OS and Some Day-Dreaming   | 14:10 - 15:00        |
+| Junde Yhi     | Talk on QA, UX and Security of AOSC OS            | 15:10 - 16:00        |
+| -             | Lucky Dip: Banana Pi M2+                          | 16:15 - 16:30        |
+| Mingcong Bai  | Closing Words and Onto Day 3                      | 16:40 - 17:00        |
 
 ### Day 3
 
-Day 3 will be a day of workshop, therefore no timeline-based schedule would be
-produced, here's a list of topics/activities we have planned:
+Day 3 will be a day of workshop, here's a list of topics/activities we have
+planned (other activities could be organized upon approval of venue provider):
 
-- AOSC OS Packaging (Mingcong Bai)
+- Integration of Ciel into AOSC OS development workflow (Lion Yang).
+- Introduction to AOSC OS packaging (Mingcong Bai).
+- Working with ARM devices, mainlining and more (Icenowy Zheng).
+
+Sponsors
+--------
+
+- Venue: [Electronic Engineering Club of Guangdong University of Technology](http://www.gdut.edu.cn/).
+- Day 1 Lucky Dip: [Staph Zhang](https://github.com/StephDC).
+- Day 2 Lucky Dip: [Banana Pi Community (CN)](https://www.banana-pi.org.cn).
