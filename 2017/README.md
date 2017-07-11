@@ -191,7 +191,7 @@ As usual, AOSCC 2017 will be a three-day event...
 | Speaker      | Topic                                      | Estimated Time Frame |
 |--------------|--------------------------------------------|----------------------|
 | Mingcong Bai | Year In Review: 2016 - 2017                | 10:00 - 11:30        |
-| Zamir Sun    | Contributor to Employee : FOSS Does Help   | 13:00 - 13:30        |
+| Zamir Sun    | Contributor to Employee : FOSS Helps       | 13:00 - 13:30        |
 | Mingcong Bai | Monthly Cycle on AOSC OS                   | 13:40 - 14:30        |
 | Junde Yhi    | AOSC OS's Overlay System                   | 14:40 - 15:30        |
 | Mingcong Bai | Let's Name: Core 5 (Poll)                  | 15:40 - 16:00        |
