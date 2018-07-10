@@ -67,7 +67,7 @@ starting time for each topic should not be altered in principle.
 | July 29th | 11:30 - 12:00 | Poll: Default Wallpaper of AOSC OS Releases in 2018 - 2019       | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 29th | 21:00 - 0:00  | Reserved for Additional Topics [^1]                              | N/A                                             |
 
-- [^1] Or otherwise treat as a break.
+- [^1] Or otherwise treated as a break.
 
 Rules and Notes on Participation
 --------------------------------
