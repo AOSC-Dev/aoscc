@@ -82,3 +82,12 @@ Rules and Notes on Participation
   conversation, and avoid utilising more than 10 minutes on a speech.
 - Further discussion topics, if introduced, should be segregated in contrast
   to the immediate topics to avoid confusion.
+  
+Chat Logos
+----------
+
+![aoscc-main](https://github.com/AOSC-Dev/aoscc/blob/master/2018/assets/chat-logos/aoscc.png)
+AOSCC 2018 Main Channel
+
+![aoscc-polls](https://github.com/AOSC-Dev/aoscc/blob/master/2018/assets/chat-logos/aoscc-polls.png)
+AOSCC 2018 Polls Channel
