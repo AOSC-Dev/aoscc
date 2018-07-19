@@ -51,14 +51,14 @@ starting time for each topic should not be altered in principle.
 
 | Date      | Time          | Topic                                                            | Discussion Leader                               |
 |-----------|---------------|------------------------------------------------------------------|-------------------------------------------------|
-| July 21st | 10:00 - 10:30 | Fun: Casual Conversations and Ice-breaking                       | N/A                                             |
+| July 21st | 9:00 - 9:30   | Fun: Casual Conversations and Ice-breaking                       | N/A                                             |
 | July 21st | 9:30 - 10:30  | AOSC OS: Moving from Monthly Waves to Seasonal Waves; Milestones | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 21st | 11:00 - 12:00 | AOSC OS: Packaging Workflow and Toolchain Enforcement            | [Daming Yang](https://github.com/LionNatsu/)      |
 | July 21st | 21:00 - 22:00 | AOSC OS: Security Infrastructure and Advisories                  | [Zero King](https://github.com/l2dy)            |
 | July 21st | 22:15 - 23:15 | AOSC OS: Optimisation Overlay in Implementation                  | [Junde Yhi](https://github.com/lmy441900/)      |
 | July 21st | 23:30 - 0:00  | Poll: Codename of AOSC OS Core 6 (starting with "F")             | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 22nd | 9:30 - 10:30  | AOSC OS: Conversations on the Future of System Delivery          | [Mingcong Bai](https://github.com/MingcongBai/) |
-| July 22nd | 11:00 - 12:00 | AOSC OS: Contiguous Integration and Packaging Automation         | [Zixing Liu](https://github.com/liushuyu/)      |
+| July 22nd | 11:00 - 12:00 | AOSC OS: Contiguous Integration of System Delivery               | [Zixing Liu](https://github.com/liushuyu/)      |
 | July 22nd | 21:00 - 22:00 | AOSC OS: On Implementation and Enforcement of Source Checksum    | [Daming Yang](https://github.com/LionNatsu/)      |
 | July 22nd | 23:00 - 0:00  | Reserved for Additional Topics [^1]                              | N/A                                             |
 | July 28th | 9:30 - 10:30  | AOSC OS: On the New Features of Core 6                           | [Mingcong Bai](https://github.com/MingcongBai/) |
