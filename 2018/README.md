@@ -60,7 +60,7 @@ starting time for each topic should not be altered in principle.
 | July 22nd | 9:30 - 10:30  | AOSC OS: Conversations on the Future of System Delivery          | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 22nd | 11:00 - 12:00 | AOSC OS: Contiguous Integration of System Delivery               | [Zixing Liu](https://github.com/liushuyu/)      |
 | July 22nd | 21:00 - 22:00 | AOSC OS: On Implementation and Enforcement of Source Checksum    | [Daming Yang](https://github.com/LionNatsu/)      |
-| July 22nd | 23:00 - 0:00  | Reserved for Additional Topics [^1]                              | N/A                                             |
+| July 22nd | 23:00 - 0:00  | AOSC OS: Moving from Monthly Waves to Seasonal Waves; Milestones (Session 2) | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 28th | 9:30 - 10:30  | AOSC OS: On the New Features of Core 6                           | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 28th | 11:00 - 12:00 | Community: Store and Economics (Anthon Online Souvenir Centre)   | [Shunran Zhang](https://github.com/StephDC/)      |
 | July 28th | 21:00 - 22:00 | Projects: Maintenance and Forking of Upstream Projects           | [Icenowy Zheng](https://github.com/Icenowy/)    |
