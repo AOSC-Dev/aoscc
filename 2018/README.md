@@ -64,7 +64,7 @@ starting time for each topic should not be altered in principle.
 | July 28th | 9:30 - 10:30  | AOSC OS: On the New Features of Core 6                           | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 28th | 11:00 - 12:00 | Community: Store and Economics (Anthon Online Souvenir Centre)   | [Shunran Zhang](https://github.com/StephDC/)      |
 | July 28th | 21:00 - 22:00 | Projects: Maintenance and Forking of Upstream Projects           | [Icenowy Zheng](https://github.com/Icenowy/)    |
-| July 28th | 23:00 - 0:00  | AOSC OS: Let's Talk about Themes and Interface Customisation     | [Mingcong Bai](https://github.com/MingcongBai/) |
+| July 28th | 22:30 - 23:30  | AOSC OS: Let's Talk about Themes and Interface Customisation     | [Mingcong Bai](https://github.com/MingcongBai/) |
 | July 29th | 9:00 - 10:00  | AOSC OS: Package (and their Arch-specific) Variants (Autobuild3) | [Icenowy Zheng](https://github.com/Icenowy/)    |
 | July 29th | 10:00 - 11:30 | Reserved for Additional Topics [^1]                              | N/A                                             |
 | July 29th | 11:30 - 12:00 | Poll: Default Wallpaper of AOSC OS Releases in 2018 - 2019       | [Mingcong Bai](https://github.com/MingcongBai/) |
