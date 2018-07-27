@@ -68,7 +68,7 @@ starting time for each topic should not be altered in principle.
 | July 29th | 9:00 - 10:00  | AOSC OS: Package (and their Arch-specific) Variants (Autobuild3) | [Icenowy Zheng](https://github.com/Icenowy/)    |
 | July 29th | 10:00 - 11:30 | Reserved for Additional Topics [^1]                              | N/A                                             |
 | July 29th | 11:30 - 12:00 | Poll: Default Wallpaper of AOSC OS Releases in 2018 - 2019       | [Mingcong Bai](https://github.com/MingcongBai/) |
-| July 29th | 21:00 - 0:00  | Reserved for Additional Topics [^1]                              | N/A                                             |
+| July 29th | 21:00 - 0:00  | AOSC OS: Moving from Monthly Waves to Seasonal Waves; Milestones (Session 3) | [Mingcong Bai](https://github.com/MingcongBai/) |
 
 - [^1] Or otherwise treated as a break.
 
