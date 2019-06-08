@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="150"
+   viewBox="0 0 105.83333 39.687501"
+   version="1.1"
+   id="svg5002"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Bug-Driven Development.svg">
+  <defs
+     id="defs4996" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="220.74911"
+     inkscape:cy="76.450871"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1400"
+     inkscape:window-height="993"
+     inkscape:window-x="262"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata4999">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257.31247)">
+    <g
+       id="g5145"
+       transform="translate(-13.42566,97.651163)">
+      <text
+         id="text5032"
+         y="179.77692"
+         x="47.19791"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.81805515px;line-height:0.2;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';stroke-width:0.26458332"
+           y="179.77692"
+           x="47.19791"
+           id="tspan5030"
+           sodipodi:role="line">Bug-Driven</tspan><tspan
+           id="tspan5034"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.34722233px;line-height:0.2;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';stroke-width:0.26458332"
+           y="193.00609"
+           x="47.19791"
+           sodipodi:role="line" /></text>
+      <text
+         id="text5044"
+         y="188.18687"
+         x="47.19791"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';stroke-width:0.26458332"
+           y="188.18687"
+           x="47.19791"
+           id="tspan5042"
+           sodipodi:role="line">Development</tspan></text>
+      <text
+         id="text5048"
+         y="173.01199"
+         x="109.22562"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:2.46944451px;stroke-width:0.26458332"
+           y="173.01199"
+           x="109.22562"
+           id="tspan5046"
+           sodipodi:role="line">TM</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.04998164,0,0,0.04998164,6.2941987,237.05284)"
+       id="g5272">
+      <circle
+         r="231.42857"
+         cy="311.42856"
+         cx="315.71429"
+         id="path3558"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(1.0493828,0,0,1.0493828,-81.30515,475.55441)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path2996"
+         d="m 250,623.31099 c -2.9259,0 -5.82425,0.0629 -8.71573,0.20199 l 6.04626,91.60191 c 0.71085,-0.0168 1.42977,-0.0226 2.1447,-0.0226 48.6757,0 88.13842,38.84432 88.13842,86.75357 0,13.58959 -3.16991,26.4599 -8.82982,37.91116 l 81.47612,42.19838 c 11.908,-23.9773 18.61792,-50.99927 18.61792,-79.59331 0,-98.88903 -80.08635,-179.05124 -178.87787,-179.05124 z m -13.75808,0.51626 c -0.16058,0.0121 -0.31868,0.0323 -0.47914,0.0448 l 0.0227,0.26934 0.5704,-0.31422 c -0.0377,0.003 -0.0765,-0.003 -0.11405,0 z M 92.523589,717.35947 c -13.654905,25.29045 -21.401456,54.23715 -21.401456,85.00278 0,98.88902 80.086357,179.05123 178.877867,179.05123 5.01064,0 9.96969,-0.20161 14.87607,-0.60613 l -6.11469,-92.67918 c -3.05145,0.3145 -6.15014,0.47137 -9.28615,0.47137 -48.67569,0 -88.13842,-38.84433 -88.13842,-86.75355 0,-15.59183 4.18263,-30.2266 11.4993,-42.87174 z"
+         style="fill:#dedede;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.08679989,0,0,0.08679989,20.330949,279.68005)"
+       id="g5387">
+      <polygon
+         points="64,20.03 118.41,114.26 9.6,114.26 "
+         style="fill:#fcc21b"
+         id="polygon5377" />
+      <g
+         id="g5385">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 127.07,115.93 66.89,11.7 c -0.6,-1.03 -1.7,-1.67 -2.89,-1.67 -1.19,0 -2.29,0.64 -2.88,1.67 L 0.93,115.93 c -0.6,1.03 -0.6,2.3 0,3.34 0.6,1.03 1.7,1.66 2.89,1.66 h 120.36 c 1.19,0 2.29,-0.63 2.89,-1.66 0.59,-1.04 0.59,-2.31 0,-3.34 z M 9.6,114.26 64,20.03 l 54.41,94.23 z"
+           style="fill:#2f2f2f"
+           id="path5379" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 59.12,83.21 h 9.76 c 0.36,0 0.65,-0.23 0.67,-0.53 l 2.66,-38.27 c 0.01,-0.16 -0.05,-0.3 -0.18,-0.42 -0.12,-0.11 -0.3,-0.18 -0.49,-0.18 H 56.46 c -0.19,0 -0.37,0.07 -0.49,0.18 -0.12,0.12 -0.19,0.26 -0.18,0.42 l 2.67,38.27 c 0.01,0.29 0.3,0.53 0.66,0.53 z"
+           style="fill:#2f2f2f"
+           id="path5381" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 56.11,103.32 c 0,-1.41 0.2,-2.6 0.61,-3.57 0.4,-0.98 0.96,-1.77 1.68,-2.37 0.72,-0.6 1.56,-1.04 2.54,-1.31 0.97,-0.27 2.01,-0.41 3.13,-0.41 1.05,0 2.05,0.14 3,0.41 0.95,0.27 1.78,0.71 2.49,1.31 0.72,0.6 1.29,1.38 1.71,2.37 0.42,0.97 0.63,2.16 0.63,3.57 0,1.35 -0.21,2.51 -0.63,3.46 -0.42,0.96 -0.99,1.76 -1.71,2.39 -0.71,0.63 -1.54,1.09 -2.49,1.37 -0.95,0.28 -1.95,0.43 -3,0.43 -1.11,0 -2.15,-0.14 -3.13,-0.43 -0.98,-0.29 -1.82,-0.74 -2.54,-1.37 -0.72,-0.63 -1.29,-1.42 -1.68,-2.39 -0.41,-0.96 -0.61,-2.11 -0.61,-3.46 z"
+           style="fill:#2f2f2f"
+           id="path5383" />
+      </g>
+    </g>
+  </g>
+</svg>

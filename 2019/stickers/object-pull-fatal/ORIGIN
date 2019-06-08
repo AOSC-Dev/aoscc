@@ -1,0 +1,15 @@
+Conversation between @cth451, @Icenowy, and @JeffBai on AOSC's Telegram channel...
+
+"""
+@cth451: [screenshot of Git pulling keepalive-shell's repository]
+@cth451: “接收对象中”
+@cth451: 没有对象。
+@Icenowy: [formatted code]
+          接收对象中： (0/0)
+          fatal: 你这么丑，怎么可能有对象！
+@JeffBai: *shots fired*
+@cth451: 是这么回事
+@Icenowy: fatal: 用户长相欠佳，无法获取对象。
+"""
+
+Recorded on aosc_jokes on August 29, 2017.

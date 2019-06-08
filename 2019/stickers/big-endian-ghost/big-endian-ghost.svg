@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="1400"
+   viewBox="0 0 529.16665 370.41668"
+   version="1.1"
+   id="svg904"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="big-endian-ghost.svg"
+   inkscape:export-filename="/home/白铭骢/big-endian-ghost.png"
+   inkscape:export-xdpi="121.93"
+   inkscape:export-ydpi="121.93">
+  <defs
+     id="defs898" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata901">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,73.416683)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="70.189552"
+       y="173.3311"
+       id="text1451"><tspan
+         sodipodi:role="line"
+         id="tspan1449"
+         x="70.189552"
+         y="173.3311"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:176.3888855px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';stroke-width:0.26458332"><tspan
+   style="font-size:282.222229px;fill:#ce4f32;fill-opacity:1"
+   id="tspan1453">O</tspan>rz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="265.23923"
+       y="221.40472"
+       id="text1463"><tspan
+         sodipodi:role="line"
+         id="tspan1461"
+         x="265.23923"
+         y="221.40472"
+         style="font-style:italic;font-size:19.04999924px;text-align:center;text-anchor:middle;stroke-width:0.26458332">Friends don't let friends package for Big Endian.</tspan><tspan
+         sodipodi:role="line"
+         x="265.23923"
+         y="245.21722"
+         style="font-style:italic;font-size:19.04999924px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1465"><tspan
+   style="font-weight:bold;fill:#ce4f32;fill-opacity:1"
+   id="tspan1467">PowerPC</tspan> maintainers cared, so should you.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="80mm"
+   viewBox="0 0 300 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="People's Hospital.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="435.89041"
+     inkscape:cy="327.50793"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.38384363"
+       y="261.60498"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="0.38384363"
+         y="261.60498"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.33333206px;font-family:FangYuansunzhongshan;-inkscape-font-specification:FangYuansunzhongshan;fill:#222222;fill-opacity:1;stroke-width:0.26458332">石牌村人民医院</tspan><tspan
+         sodipodi:role="line"
+         x="0.38384363"
+         y="285.96649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.33333206px;font-family:FangYuansunzhongshan;-inkscape-font-specification:FangYuansunzhongshan;fill:#222222;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan823" /></text>
+    <g
+       id="g858"
+       transform="translate(-73.692927,-5.3313031)">
+      <text
+         id="text827"
+         y="296.02634"
+         x="199.19345"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Serif CJK SC';-inkscape-font-specification:'Noto Serif CJK SC';stroke-width:0.26458332"
+           y="296.02634"
+           x="199.19345"
+           id="tspan825"
+           sodipodi:role="line">本机会诊号 </tspan></text>
+      <rect
+         y="296.59909"
+         x="265.53229"
+         height="0.4009043"
+         width="100.76061"
+         id="rect853"
+         style="fill:#222222;fill-opacity:1;stroke-width:0.26458332" />
+    </g>
+  </g>
+</svg>
