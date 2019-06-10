@@ -1,0 +1,52 @@
+Originally posted by @o0_0d (Lion) on AOSC's Telegram channel...
+
+"""
+qnmd老子要当真汉子
+sudo apt purge --auto-remove iptables nftables
+哦嚯，系统没了
+(Screenshot:
+root Lion-RPi3 [ ~ ] # sudo apt purge --auto-remove iptables nftables
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+Package 'nftables' is not installed, so not removed
+The following additional packages will be installed:
+  curl
+The following packages will be REMOVED:
+  aosc-os-repository-data* apr* apr-util* apt* apt-gen-list* autogen* bluez* cairo* cryptsetup*
+  cvsps* cyanberry-config* dbus* dbus-glib* dbus-python* dhcp* dnsmasq* fontconfig* freetype* gc*
+  giflib* git* glib-networking* gnupg* gnutls* gpm* graphite* gsettings-desktop-schemas* guile*
+  harfbuzz* hwdata* icu* imlib2* iproute2* iptables* js-17* js-52* libaio* libassuan*
+  libatomic-ops* libbsd* libcl* libclc* libdrm* libgcrypt* libglvnd* libgpg-error8 libical*
+  libid3tag* libjpeg-turbo* libksba* libmbim* libmicrohttpd* libmnl* libndp* libnftnl* libnl*
+  libpcap* libpng* libproxy* libpwquality* libqmi* libseccomp* libsecret* libsoup* libtasn1*
+  libtiff* libtool* libusb* libusb-compat* libutf8proc* libva* libvdpau* libwww-perl* libxau*
+  libxcb* libxdmcp* libxkbcommon* llvm-runtime* lm-sensors* lvm2* 1z4* 1zo* mariadb* mesa*
+  modemmanager* nettle* networkmanager* newt* npth* nspr* nss* p11-kit* parted* pcsclite*
+  perl-authen-sasl* perl-convert-binhex* perl-dbi* perl-encode-locale* perl-error*
+  perl-file-listing* perl-html-parser* perl-html-tagset* perl-http-cookies* perl-http-daemon*
+  perl-http-date* perl-http-message* perl-http-negotiate* perl-io-socket-ssl* perl-io-stringy*
+  perl-lwp-mediatypes* perl-lwp-protocol-https* perl-mailtools* perl-mime-tools* perl-mozilla-ca*
+  perl-net-http* perl-net-smtp-ssl* perl-net-ssleay* perl-term-readkey* perl-uri*
+  perl-www-robotrules* pinentry* pixman* polkit* popt* postgresql* ppp* pth* pv* pyparted*
+  pypsutil* pyudev* pyyaml* qrencode* rootfs-resize* s2tc* serf* six* slang* snappy* subversion*
+  sysfsutils* systemd* tk* trousers* unbound* unixodbc* usbutils* util-linux* util-macros* w3m*
+  wayland* wayland-protocols* wget* wpa-supplicant* x11-llib* x11-proto* yaml* zstd*
+The following packages will be upgraded:
+  curl
+WARNING: The following essential packages will be removed.
+This should NOT be done unless you know exactly what you are doing!
+  apt lz4 (due to apt) apt-gen-list (due to apt) systemd (due to apt) gnutls (due to apt)
+  zstd (due to apt)
+1 upgraded, 0 newly installed, 158 to remove and 5 not upgraded.
+Need to get 532 kB of archives.
+After this operation, 1104 MB disk space will be freed.
+You are about to do something potentially harmful.
+To continue type in the phrase 'Yes, do as I say!'
+ ?] ▒
+)
+systemd*
+底裤都没了
+"""
+
+This is based on the ciel logo design by @gumblex.
