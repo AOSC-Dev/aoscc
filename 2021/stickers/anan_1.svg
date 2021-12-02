@@ -14,7 +14,10 @@
    version="1.1"
    id="svg7308"
    inkscape:version="1.0.1 (unknown)"
-   sodipodi:docname="anan_1.svg">
+   sodipodi:docname="anan_1.svg"
+   inkscape:export-filename="/home/kay/Downloads/Telegram Desktop/anan-1-preview.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs7302" />
   <sodipodi:namedview
@@ -22,7 +25,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="-13.797438"
@@ -51,7 +54,8 @@
   <g
      inkscape:label="Objects"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <image
        width="33.332218"
        height="70.382256"
@@ -65,7 +69,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Cuts">
+     inkscape:label="Cuts"
+     style="display:inline">
     <path
        id="path34200"
        style="display:inline;fill:none;fill-opacity:1;stroke:#aaaaaa;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
