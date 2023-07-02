@@ -1389,7 +1389,7 @@
          y="242.76041" /></clipPath><color-profile
        name="sRGB"
        xlink:href="file:///usr/share/color/icc/colord/sRGB.icc"
-       id="color-profile41357" /><linearGradient
+       id="color-profile110100" /><linearGradient
        inkscape:collect="always"
        id="linearGradient1844"><stop
          style="stop-color:#232935;stop-opacity:1;"
@@ -4971,9 +4971,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.0489315"
-     inkscape:cx="503.29106"
-     inkscape:cy="1024.7852"
+     inkscape:zoom="0.78021085"
+     inkscape:cx="173.03015"
+     inkscape:cy="503.06914"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -5684,7 +5684,7 @@
            style="fill:#dedede;fill-opacity:1;stroke:none" /></g><g
          transform="matrix(0.08679989,0,0,0.08679989,20.330949,279.68005)"
          id="g2677"><polygon
-           points="118.41,114.26 9.6,114.26 64,20.03 "
+           points="64,20.03 118.41,114.26 9.6,114.26 "
            style="fill:#fcc21b"
            id="polygon2667" /><g
            id="g2675"><path
