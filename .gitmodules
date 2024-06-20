@@ -1,3 +1,6 @@
 [submodule "2015"]
 	path = 2015
 	url = https://github.com/AOSC-Dev/aoscc-2015
+[submodule "2024/stickers/le"]
+	path = 2024/stickers/le
+	url = https://github.com/OriginCode/x-le
