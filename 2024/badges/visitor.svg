@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0737236"
-     inkscape:cx="88.729279"
-     inkscape:cy="169.50186"
+     inkscape:zoom="1.0368618"
+     inkscape:cx="87.76483"
+     inkscape:cy="184.69192"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
      inkscape:window-x="0"
@@ -662,41 +662,23 @@
          style="font-size:6.35px;fill:#2a3135;fill-opacity:0.666667;stroke-width:0.265"
          x="4.9847498"
          y="26.436993">我是</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.2;font-family:MiSans;-inkscape-font-specification:MiSans;text-decoration-color:#000000;letter-spacing:0px;fill:#2a3035;fill-opacity:0.666667;stroke-width:0.264999;stroke-linejoin:round;paint-order:stroke fill markers"
-       x="5.201972"
-       y="55.407501"
-       id="text4"><tspan
-         sodipodi:role="line"
-         id="tspan4"
-         style="font-size:3.52778px;stroke-width:0.265"
-         x="5.201972"
-         y="55.407501">与会者</tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.269532;stroke-linejoin:round;stroke-dasharray:0.269532, 0.269532;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:none;stroke:#000000;stroke-width:0.222253;stroke-linejoin:round;stroke-dasharray:0.222253, 0.222253;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect1"
-       width="44.730469"
-       height="20.730469"
-       x="5.4941659"
-       y="29.596762" />
+       width="44.777748"
+       height="14.080747"
+       x="5.4705267"
+       y="33.111126" />
     <text
        xml:space="preserve"
-       style="font-size:14.1111px;line-height:1.2;font-family:'方正仿宋_GBK';-inkscape-font-specification:'方正仿宋_GBK';text-decoration-color:#000000;letter-spacing:0px;fill:none;stroke:#000000;stroke-width:0.3;stroke-linejoin:round;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       x="6.7985835"
-       y="46.958267"
+       style="font-size:11.5273px;line-height:1.2;font-family:'方正仿宋_GBK';-inkscape-font-specification:'方正仿宋_GBK';text-decoration-color:#000000;letter-spacing:0px;fill:none;stroke:#000000;stroke-width:0.245068;stroke-linejoin:round;stroke-dasharray:0.245068, 0.245068;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="10.654905"
+       y="44.641384"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MiSans;-inkscape-font-specification:MiSans;stroke-width:0.3"
-         x="6.7985835"
-         y="46.958267">定制区</tspan></text>
-    <rect
-       style="fill:#2a3035;fill-opacity:0.666667;stroke-width:0.276;stroke-linejoin:round;paint-order:stroke fill markers"
-       id="rect3"
-       width="51.742661"
-       height="0.30000001"
-       x="5.3590002"
-       y="51.002998" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:MiSans;-inkscape-font-specification:MiSans;stroke-width:0.245068"
+         x="10.654905"
+         y="44.641384">定制区</tspan></text>
   </g>
 </svg>
