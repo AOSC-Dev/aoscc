@@ -50,7 +50,13 @@
          id="tspan6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'寒蝉半圆体';-inkscape-font-specification:'寒蝉半圆体';stroke-width:0.671732"
          x="26.647875"
-         y="92.929123" /></text><g
+         y="92.929123" /></text><rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-dashoffset:34.0157;paint-order:fill markers stroke"
+       id="rect1"
+       width="169.33333"
+       height="84.666664"
+       x="-6.235353e-07"
+       y="-3.1176762e-07" /><g
        id="g2"
        transform="matrix(0.65245982,0,0,0.65245982,-9.6502076,-92.819305)"><path
          id="rect8"
