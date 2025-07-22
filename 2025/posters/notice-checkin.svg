@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.62070924"
-     inkscape:cx="644.42411"
-     inkscape:cy="414.04249"
+     inkscape:zoom="2.0389438"
+     inkscape:cx="815.1279"
+     inkscape:cy="524.29105"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="0"
@@ -1268,7 +1268,13 @@
            id="tspan2"
            style="font-style:normal;font-variant:normal;font-weight:520;font-stretch:normal;font-size:13.2979px;font-family:MiSans;-inkscape-font-specification:'MiSans weight=520';stroke:none;stroke-width:7.53897"
            x="224.55666"
-           y="26.982256">会务告示</tspan></text></g><text
+           y="26.982256">会务告示</tspan></text></g><path
+       style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 165.94194,102.02962 h 63.30085"
+       id="path35-5" /><path
+       style="fill:none;fill-opacity:1;stroke:#c00000;stroke-width:5;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 99.402011,138.76043 H 229.26657"
+       id="path35-5-5" /><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:520;font-stretch:normal;font-size:33.8868px;line-height:1.1;font-family:MiSans;-inkscape-font-specification:'MiSans weight=520';text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;stroke:none;stroke-width:19.2113;stroke-linecap:square;paint-order:fill markers stroke"
        x="63.783005"
