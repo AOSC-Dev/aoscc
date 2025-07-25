@@ -6,7 +6,7 @@
    id="svg1"
    sodipodi:docname="agenda-full.svg"
    xml:space="preserve"
-   inkscape:version="1.4.1 (unknown)"
+   inkscape:version="1.4.2 (unknown)"
    inkscape:export-filename="agenda-full.png"
    inkscape:export-xdpi="144"
    inkscape:export-ydpi="144"
@@ -28,12 +28,12 @@
      showguides="false"
      inkscape:zoom="0.27895602"
      inkscape:cx="966.10211"
-     inkscape:cy="6495.6476"
-     inkscape:window-width="1920"
+     inkscape:cy="5685.484"
+     inkscape:window-width="1486"
      inkscape:window-height="1111"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg1"
      inkscape:export-bgcolor="#201a31ff" /><title
      id="title1">Blank map of China (provinces only)</title><defs
@@ -2106,7 +2106,7 @@
          x="1742.688"
          y="1425.5005"
          id="tspan62-70-9"
-         style="font-size:42.6667px;line-height:1.1;text-align:end;text-anchor:end;fill:#dedede;fill-opacity:1">Linux 内核 LoongArch 及 LoongArch KVM 子系统维护者</tspan></text><text
+         style="font-size:42.6667px;line-height:1.1;text-align:end;text-anchor:end;fill:#dedede;fill-opacity:1">Linux 内核 LoongArch 维护者</tspan></text><text
        xml:space="preserve"
        style="font-size:42.6667px;line-height:0.8;font-family:MiSans;-inkscape-font-specification:MiSans;text-align:end;text-decoration-color:#000000;letter-spacing:0px;text-anchor:end;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:2.7326;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
        x="-3.0559149"
@@ -2241,7 +2241,7 @@
          x="-1.6639404"
          y="3126.3738"
          style="font-style:normal;font-variant:normal;font-weight:520;font-stretch:normal;font-size:64px;font-family:MiSans;-inkscape-font-specification:'MiSans weight=520';fill:#dedede;fill-opacity:1"
-         id="tspan87-9">开源生态维护漫谈：</tspan><tspan
+         id="tspan87-9">Unicorn 开源生态维护漫谈：</tspan><tspan
          sodipodi:role="line"
          x="-1.6639404"
          y="3196.7737"
