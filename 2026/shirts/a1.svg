@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.134823"
-     inkscape:cx="588.63808"
-     inkscape:cy="463.06783"
+     inkscape:cx="588.63805"
+     inkscape:cy="463.06781"
      inkscape:window-width="2560"
      inkscape:window-height="1494"
      inkscape:window-x="0"
@@ -186,7 +186,10 @@
          id="g356"
          transform="translate(11.752679,232.11542)" /></g><g
        id="g5"
-       transform="translate(-0.32062755)"><g
+       transform="translate(-0.32062755)"
+       inkscape:export-filename="a1-pattern.png"
+       inkscape:export-xdpi="1200"
+       inkscape:export-ydpi="1200"><g
          id="g379"
          transform="matrix(0.11087411,-0.20751269,0.20751269,0.11087411,98.177195,110.2803)"><g
            id="g357"
